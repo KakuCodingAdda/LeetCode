@@ -10,7 +10,6 @@ class Solution {
             }
             indexMap.put(nums[i],i);
         }
-        System.out.println("h");
         return ans; 
     }
 }
